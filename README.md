@@ -2,7 +2,7 @@
 
 **A dataset on Independent Fiscal Institutions (IFIs)**
 
-The Comparative Independent Fiscal Institutions Dataset (CifiD) provides information about the legal provisions that constitute the monitoring scope, powers and institutional design of forty-four expert monitoring bodies in thirty-nine countries, so-called *Independent Fiscal Institutions* (IFIs). The dataset covers legislative changes to these institutions until 2018.
+The Comparative Independent Fiscal Institutions Dataset (CifiD) provides information about the legal provisions of forty-four expert bodies that monitor fiscal policy and performance, so-called *Independent Fiscal Institutions* (IFIs). The dataset covers legislative changes to institutions in thirty-nine countries until end-2018.
 
 **Indicators**
 
