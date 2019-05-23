@@ -44,6 +44,7 @@ Supplements:
 * [Codebook](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Codebook.pdf)
 * [Documentation](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Documentation.pdf)
 
+<a href="https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Documentation.pdf" download>Click to Download</a>
 
 *Cite as*
 
