@@ -28,6 +28,7 @@ Supplements:
 
 
 *Cite as*
-Belling, Daniel, 2018, *Comparative Independent Fiscal Institutions Dataset*.
+
+Belling, Daniel, 2019, *Comparative Independent Fiscal Institutions Dataset*.
 School of Politics and International Relations, University of Kent. Available at
 https://fiscal-institutions.github.io/
