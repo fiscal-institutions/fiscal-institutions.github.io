@@ -37,7 +37,7 @@ Cyprus | Ireland | Portugal
 
 **Dataset**
 
-* <a href= "https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Dataset.csv" target="_blank"><b>Download Dataset (csv)</b></a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.csv" target="_blank">Download Dataset (csv)</a>
 * <a href= "https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Dataset.dta" target="_blank"><b>Download Dataset (Stata)</b></a>
 
 **Supplement**
