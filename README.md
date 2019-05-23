@@ -38,6 +38,7 @@ Cyprus | Ireland | Portugal
 **Dataset**
 
 * <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.csv" target="_blank">Dataset as csv-code</a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.xlsx" target="_blank">Dataset as Excel-code</a>
 * <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.dta" target="_blank">Dataset as Stata-file</a>
 
 **Supplements**
@@ -45,6 +46,7 @@ Cyprus | Ireland | Portugal
 * <a href= "https://fiscal-institutions.github.io/CifiD%20Codebook.pdf" target="_blank">Codebook</a>
 * <a href= "https://fiscal-institutions.github.io/CifiD%20Documentation.pdf" target="_blank">Documentation</a>
 
+----
 
 *Cite as*
 
@@ -53,3 +55,11 @@ Belling, Daniel, 2019, *Comparative Independent Fiscal Institutions Dataset*.
 School of Politics and International Relations, University of Kent. Available at
 https://fiscal-institutions.github.io/
 ```
+
+*Contact*
+
+Daniel Belling
+
+School of Politics and International Relations
+University of Kent
+bdsb2@kent.ac.uk
