@@ -57,7 +57,7 @@ https://fiscal-institutions.github.io/
 
 *Contact*
 
-Daniel Belling
-School of Politics and International Relations
-University of Kent
+Daniel Belling,
+School of Politics and International Relations,
+University of Kent,
 bdsb2@kent.ac.uk
