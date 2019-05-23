@@ -37,15 +37,14 @@ Cyprus | Ireland | Portugal
 
 **Dataset**
 
-* <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.csv" target="_blank">Download Dataset (csv)</a>
-* <a href= "https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Dataset.dta" target="_blank"><b>Download Dataset (Stata)</b></a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.csv" target="_blank">Dataset as csv-code</a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Dataset.dta" target="_blank">Dataset as Stata-file</a>
 
-**Supplement**
+**Supplements**
 
-* <a href= "https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Codebook.pdf" target="_blank"><b>Download Codebook</b></a>
-* <a href= "https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Documentation.pd" target="_blank"><b>Download Documentation</b></a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Codebook.pdf" target="_blank">Codebook</a>
+* <a href= "https://fiscal-institutions.github.io/CifiD%20Documentation.pdf" target="_blank">Documentation</a>
 
----
 
 *Cite as*
 
@@ -54,12 +53,3 @@ Belling, Daniel, 2019, *Comparative Independent Fiscal Institutions Dataset*.
 School of Politics and International Relations, University of Kent. Available at
 https://fiscal-institutions.github.io/
 ```
-
-
-* [csv-file](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Dataset.csv)
-* [Stata-file](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Dataset.dta)
-
-Supplements:
-* [Codebook](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Codebook.pdf)
-* [Documentation](https://github.com/fiscal-institutions/fiscal-institutions.github.io/blob/master/CifiD%20Documentation.pdf)
-
