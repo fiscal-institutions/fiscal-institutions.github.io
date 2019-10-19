@@ -50,6 +50,8 @@ Cyprus | Ireland | Portugal
 
 *Cite as*
 
+Belling, Daniel. 2019. *A New Dataset on the Political Independence of Fiscal Monitoring Institutions*. European Political Science, pp. 1-18. Available at https://bit.ly/2YRcFru.
+
 Belling, Daniel, 2019, *Comparative Independent Fiscal Institutions Dataset*.
 School of Politics and International Relations, University of Kent. Available at
 https://fiscal-institutions.github.io/
