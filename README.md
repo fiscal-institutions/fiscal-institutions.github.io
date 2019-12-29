@@ -22,7 +22,7 @@ Based on these items this dataset provides new indices on formal independence an
 
 **Coverage**
 
-The CifiD covers expert bodies with a legal monitoring mandate in thirty-nine countries, inlcuding legistalive changes to that mandate.
+The CifiD covers expert bodies with a legal monitoring mandate in thirty-nine countries, including legislative changes to that mandate.
 
 Australia | Czech Republic | Italy | Romania
 Austria | Denmark | Korea | Serbia
